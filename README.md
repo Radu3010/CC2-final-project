@@ -1,14 +1,23 @@
-# (Title)
-(Short description)
+# (Instalatie Arduino)
+(Placuta Arduino cu SEP 32 cu aplicatiile Bluetooth Controller si Bluetooth Terminal)
 
 ## (Installing)
-...
+//ARDUINO OBSTACLE AVOIDING CAR//
+// Before uploading the code you have to install the necessary library//
+//AFMotor Library https://learn.adafruit.com/adafruit-motor-shield/library-install //
+//NewPing Library https://github.com/livetronic/Arduino-NewPing// 
+//Servo Library https://github.com/arduino-libraries/Servo.git //
+// To Install the libraries go to sketch >> Include Library >> Add .ZIP File >> Select the Downloaded ZIP files From the Above links //
+
 
 ## (Usage)
-...
+Sa controlezi masinuta stanga, dreapta, sus, jos, sa aprinzi ledurile de culorile rosu si alb(si sa le stingi) si sa faci masinuta sa evite obstacolele.
 
-## (Links)
-...
+## (Links)(https://learn.adafruit.com/adafruit-motor-shield/library-install)
+https://learn.adafruit.com/adafruit-motor-shield/library-install
+https://github.com/livetronic/Arduino-NewPing
+https://github.com/arduino-libraries/Servo.git
+
 
 # Submitting your project
 
