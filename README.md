@@ -1,5 +1,5 @@
 # (Instalatie Arduino)
-(Placuta Arduino cu SEP 32 cu aplicatiile Bluetooth Controller si Bluetooth Terminal)
+(Placuta Arduino cu SEP 32 cu aplicatiile Bluetooth RC Controller si Bluetooth Terminal)
 
 ## (Installing)
 //ARDUINO OBSTACLE AVOIDING CAR//
